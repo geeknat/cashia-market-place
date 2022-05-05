@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cashia-market-place/static/css/main.964fdded.css",
-    "main.js": "/cashia-market-place/static/js/main.a89aeb14.js",
+    "main.js": "/cashia-market-place/static/js/main.d271fc6d.js",
     "static/js/787.9abf0774.chunk.js": "/cashia-market-place/static/js/787.9abf0774.chunk.js",
     "static/media/shoe.jpeg": "/cashia-market-place/static/media/shoe.2628c53ec3271622a131.jpeg",
     "index.html": "/cashia-market-place/index.html",
     "main.964fdded.css.map": "/cashia-market-place/static/css/main.964fdded.css.map",
-    "main.a89aeb14.js.map": "/cashia-market-place/static/js/main.a89aeb14.js.map",
+    "main.d271fc6d.js.map": "/cashia-market-place/static/js/main.d271fc6d.js.map",
     "787.9abf0774.chunk.js.map": "/cashia-market-place/static/js/787.9abf0774.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.a89aeb14.js"
+    "static/js/main.d271fc6d.js"
   ]
 }
